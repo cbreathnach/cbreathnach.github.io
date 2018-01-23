@@ -5,14 +5,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+theme: minimal-mistakes-jekyll
+
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Cathal Breathnach"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Cathal Breathnach"
+description              : "Cathal Breathnach's Personal Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,10 +85,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Cathal Breathnach"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Final Year Computer and Electronic Engineering Student"
+  location         : "Galway, Ireland"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -96,13 +98,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : cbreathnach
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : cbreathnach # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
