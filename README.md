@@ -1,2 +1,2 @@
 # cbreathnach.github.io
-Personal Website
+My personal website, built using Jekyll and the Minimal Mistakes theme. Hosted on Gitbub Pages.
