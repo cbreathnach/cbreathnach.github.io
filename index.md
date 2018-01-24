@@ -13,6 +13,10 @@ I'm a final year Electronic & Computer Engineering Student at NUI Galway.
 <br />
 This is my personal website. I'll be adding more content very shortly, but please feel free to check out my [LinkedIn page](https://www.linkedin.com/in/cathalbreathnach/) or send me an [email](mailto:breathnach.cathal@gmail.com) at any time.
 
+<br />
+You can download my CV [here]({{cathalbreathnach.com}}/documents/Cathal_Breathnach_CV.pdf). 
+<!--Change this CV file before finalising-->
+
 <!--
 I'm a post-doctoral researcher in [Prof. Luc Van Gool](http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1)'s [ETHZ vision group](http://www.vision.ee.ethz.ch/index.en.html).
 
