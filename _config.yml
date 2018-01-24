@@ -7,6 +7,16 @@
 
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+
+owner:
+  name:           Cathal Breathnach
+  avatar:         Profile.jpg
+  bio:            Final Year Electronic &amp Computer Engineering Student at NUI Galway. Interested in solving relevant problems with creative engineering solutions.
+  email:          breathnach.cathal@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  linkedin: cathalbreathnach
+  github: cbreathnach
+
 # Site Settings
 locale                   : "en"
 title                    : "Cathal Breathnach's Website"
@@ -201,6 +211,13 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+links:
+  - title: CV
+    url: /cv/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
 
 # Archives
 #  Type

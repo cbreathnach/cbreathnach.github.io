@@ -1,12 +1,15 @@
 ---
-layout: archive
+layout: home2
 title: Hi, I'm Cathal.
-description: "Cathal Breathnach's Website"
+description: "Cathal Breathnach"
 author_profile: true
 comments: false
+image:
+  feature: cover.png
 ---
 
-I'm a final year Electronic and Computer Engineering Student at NUI Galway.
+I'm a final year Electronic & Computer Engineering Student at NUI Galway.
+
 <br />
 This is my personal website. I'll be adding more content very shortly, but please feel free to check out my [LinkedIn page](https://www.linkedin.com/in/cathalbreathnach/) or send me an [email](mailto:breathnach.cathal@gmail.com) at any time.
 

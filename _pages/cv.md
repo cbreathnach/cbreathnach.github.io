@@ -1,9 +1,9 @@
 ---
 title:  "CV"
-layout: archive
+layout: page
 permalink: /cv/
 author_profile: true
 comments: false
 ---
 
-This is my CV page.
+Content to be addded.

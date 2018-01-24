@@ -1,9 +1,9 @@
 ---
 title:  "Projects"
-layout: archive
+layout: page
 permalink: /projects/
 author_profile: true
 comments: false
 ---
 
-This is my projects page.
+Content to be addded.
