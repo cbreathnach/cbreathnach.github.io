@@ -1,0 +1,9 @@
+---
+title:  "CV"
+layout: archive
+permalink: /cv/
+author_profile: true
+comments: false
+---
+
+This is my CV page.

@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Cathal Breathnach"
+title                    : "Cathal Breathnach's Website"
 title_separator          : "-"
 name                     : "Cathal Breathnach"
 description              : "Cathal Breathnach's Personal Website"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://www.cathalbreathnach.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,10 +84,10 @@ analytics:
 # Site Author
 author:
   name             : "Cathal Breathnach"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/Profile.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Final Year Computer and Electronic Engineering Student"
   location         : "Galway, Ireland"
-  email            :
+  email            : breathnach.cathal@gmail.com
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : cbreathnach # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : cathalbreathnach # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -179,7 +179,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
