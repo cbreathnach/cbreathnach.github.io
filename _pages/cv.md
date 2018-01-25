@@ -6,7 +6,7 @@ author_profile: true
 comments: false
 ---
 
-## Eduation 
+## Education 
 
 #### 2014-Present: Bachelor of Engineering (Electronic & Computer Engineering), NUI Galway.
 * Have studied a wide variety of hardware and software related modules.
@@ -32,8 +32,8 @@ comments: false
 * Worked in the electronics R&D department of the world leader in high performance aerosol drug delivery.
 * Responsible for product testing, analysing and collecting results for reports for new products.
 * Programmed micro-controllers and monitored power consumption over various tests.
-* Created a C# GUI from a design prototype to intereact with a microcontroller device from a tablet. Investigated different .NET libraries available for use.
-* Researched new hardware suppliers and arranged the testing for investiagtions into a new product.
+* Created a C# GUI from a design prototype to interact with a microcontroller device from a tablet. Investigated different .NET libraries available for use.
+* Researched new hardware suppliers and arranged the testing for investigations into a new product.
 
 #### Student Ambassador - NUI Galway, Galway, Ireland.
 *2014 - PRESENT*
@@ -46,7 +46,7 @@ comments: false
 
 * Leader for a peer-assisted learning (PAL or PASS) scheme run for first year engineering students.
 
-#### Sales Assisstant - River Deep Mountain High, Galway, Ireland.
+#### Sales Assistant - River Deep Mountain High, Galway, Ireland.
 *Summer 2015, 2016*
 
 * Helping and dealing with customers and sales. Placing orders and keeping the shop stocked.
@@ -54,7 +54,7 @@ comments: false
 #### Water Sports Instructor - Rusheen Bay Windsurfing, Galway, Ireland.
 *Summer 2012, 2013, 2014*
 
-* Worked as an instructor in a busy centre to provide an enjoyble and safe experience for customers.
+* Worked as an instructor in a busy centre to provide an enjoyable and safe experience for customers.
 
 #### Captain, Maamturks Challenge Chairperson, Advisor - NUI Galway Mountaineering Club.
 *2014 - PRESENT*
@@ -80,25 +80,25 @@ comments: false
 
 ## Skills
 
-**Java:** Most familiar with the Java language. Have studied many aspects of the language, including multithreading, client and server side programming and algorithimic complexity analysis. Have also studied GUI programming and have implemented a logistic regression algorithim.
+**Java:** Most familiar with the Java language. Have studied many aspects of the language, including multithreading, client and server- side programming and algorithmic complexity analysis. Have also studied GUI programming and have implemented a logistic regression algorithm.
 
 <br />
 **Python:** Have used the Scikit-learn libraries for machine learning on various data sets.
 
 <br />
-**Embedded Systems:** Have studied emdedded system and processor architecture and written C code for Microchip and Arduino MCUs. 
+**Embedded Systems:** Have studied embedded system and processor architecture and written C code for Microchip and Arduino MCUs. 
 
 <br />
-**Chip Design:** Have studied chip processes and have knowlegde of VHDL and simulation environments for analysing systems.
+**Chip Design:** Have studied chip processes and have knowledge of VHDL and simulation environments for analysing systems.
 
 <br />
-**Electronics:** Good knowledge of analagoue and digital electronics, electromagetics, signals and communication systems.
+**Electronics:** Good knowledge of analogue and digital electronics, electromagetics, signals and communication systems.
 
 <br />
 **Android:** Experience creating Android Applications and interacting with database back-ends.
 
 <br />
-**Web Development:** Have knowlegde of HTML & CSS, SQL and other CMS systems.
+**Web Development:** Have knowledge of HTML & CSS, SQL and other CMS systems.
 
 <br />
 **Applications:** Experience using MATLAB, LabView, LabWindows, Microsoft Office applications and LaTex document editors.
