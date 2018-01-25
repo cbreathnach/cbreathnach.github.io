@@ -89,7 +89,7 @@ comments: false
 **Embedded Systems:** Have studied embedded system and processor architecture and written C code for Microchip and Arduino MCUs. 
 
 <br />
-**Chip Design:** Have studied chip processes and have knowledge of VHDL and simulation environments for analysing systems.
+**Chip Design:** Have studied chip processes and have knowledge of VHDL and simulation environments for analysing systems. Assembly Lanuage.
 
 <br />
 **Electronics:** Good knowledge of analogue and digital electronics, electromagetics, signals and communication systems.
