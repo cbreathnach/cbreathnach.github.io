@@ -125,10 +125,10 @@ comments: false
 
 ## Achievements
 
-**University Scholar:** NUI Galway. Awarded for high results in the previous academic year (Awarded in 2018, 2017, 2016, 2015 & 2014).
+**University Scholar:** NUI Galway. Awarded for high results in the previous academic year (Awarded in 2018, 2017, 2016 & 2015 ).
 
 <br />
-**Alive Cert for Volunteering:** NUI Galway. Presidential award for volunteering. (Awarded in 2014, 2015, 2016, 2017).
+**Alive Cert for Volunteering:** NUI Galway. Presidential award for volunteering. (Awarded in 2017, 2016, 2015, 2014).
 
 <br />
 **Explorer Belt Award:** Scouting Ireland. One of the highest awards attainable for Rover Scouts (2015).
