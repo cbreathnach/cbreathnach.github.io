@@ -8,7 +8,7 @@ image:
   feature: cover.png
 ---
 
-I'm a final year Electronic & Computer Engineering Student at [NUI Galway](http://www.nuigalway.ie/). I'll have completed my undergraduate degree by the end of May 2018 and I'm currently seeking exciting graduate opportunities.
+I'm an Electronic & Computer Engineering graduate from [NUI Galway](http://www.nuigalway.ie/). I completed my undergraduate degree in May 2018 and I'm currently working in the Artificial Intelligence group at [Genesys](https://www.genesys.com/) as a member of the Data Science team.
 
 <br />
 This is my personal website, and includes some information on the experience and skills I have in the [CV](http://cathalbreathnach.com/cv) section. I've also included some detail on a few of the [projects](http://cathalbreathnach.com/projects) I've worked on. You can download a PDF copy of my CV by clicking [here]({{cathalbreathnach.com}}/documents/Cathal_Breathnach_CV.pdf). 

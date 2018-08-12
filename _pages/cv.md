@@ -8,8 +8,9 @@ comments: false
 
 ## Education 
 
-#### 2014-Present: Bachelor of Engineering (Electronic & Computer Engineering), NUI Galway.
+#### 2014-2018: Bachelor of Engineering (Electronic & Computer Engineering), NUI Galway.
 * Have studied a wide variety of hardware and software related modules.
+* Overall Final Year Result: 84.21%, First Class Honours
 * Overall Third Year Result: 86.2%, First Class Honours
 * Overall Second Year Result: 88.58%, First Class Honours
 * Overall First Year Result: 89.90%, First Class Honours
@@ -26,6 +27,11 @@ comments: false
 
 ## Experience
 
+#### Associate Software Engineer - Genesys AI Group, Galway, Ireland.
+*July 2018 - PRESENT*
+
+* Working as a member of the Data Science Group.
+
 #### Electronic & Computer Engineering Intern - Aerogen Ltd, Galway, Ireland.
 *January 2017 - August 2017*
 
@@ -36,7 +42,7 @@ comments: false
 * Researched new hardware suppliers and arranged the testing for investigations into a new product.
 
 #### Student Ambassador - NUI Galway, Galway, Ireland.
-*2014 - PRESENT*
+*2014 - 2018*
 
 * Lead ambassador role, helping with organisation of other ambassadors and of events.
 * Representing and promoting the university, interacting with prospective students and academic guests.
