@@ -131,7 +131,7 @@ comments: false
 
 ## Achievements
 
-**David Gilmore Memorial Award:** NUI Galway. Awarded to the student graduating with the highest mark in the Electronic and Computer Engineering degree class.
+**David Gilmore Memorial Award:** NUI Galway. Awarded to the student graduating with the highest mark in the Electronic and Computer Engineering degree class (2018).
 
 <br />
 
