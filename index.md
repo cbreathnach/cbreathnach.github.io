@@ -12,7 +12,7 @@ I'm an Electronic & Computer Engineering graduate from [NUI Galway](http://www.n
 
 <br />
 This is my personal website, and includes some information on the experience and skills I have in the [CV](http://cathalbreathnach.com/cv) section. I've also included some detail on a few of the [projects](http://cathalbreathnach.com/projects) I've worked on. You can download a PDF copy of my CV by clicking [here]({{cathalbreathnach.com}}/documents/Cathal_Breathnach_CV.pdf). 
-<!--Change this CV file before finalising-->
+
 
 <br />
 I am interested in applying my experience to solving relevant real-world problems by implementing innovative engineering approaches. I have a particular interest in designing practical solutions using artificial intelligence and next-generation technologies but I also enjoy gaining an understanding of the theory and mathematics that describe problems. I am well organised with a persistent attention to detail and can apply concepts at a high performance level.
