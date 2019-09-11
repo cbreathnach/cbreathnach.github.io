@@ -180,7 +180,7 @@ comments: false
 **Mountaineering:** A regular hiker and climber. Have travelled extensively in Ireland and abroad.
 
 <br />
-**Running, Cycling, Swimming:** Have been running for a number of years, have taken part in several events.
+**Running, Cycling, Swimming:** For fitness and for trips. Have taken part in several events
 
 <br />
 **Scouting:** Have been involved in the Scout movement since the age of 11. An active member.

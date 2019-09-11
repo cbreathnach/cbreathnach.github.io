@@ -10,12 +10,12 @@ Below is a list of some of the projects I have worked on including some detail o
 
 ### Advanced Particle Swarm Optimisation Techniques - Final Year Project
 
-I am currently working on this project as I work towards the completion of my undergraduate degree. Particle swarm optimisation (PSO) is a heuristic, stochastic optimisation algorithm. I am researching new implementations of PSO algorithms to achieve better performance across a wider range of optimisation problems by comparing results to benchmarked standards.
+Particle swarm optimisation (PSO) is a heuristic, stochastic optimisation algorithm. I am researching new implementations of PSO algorithms to achieve better performance across a wider range of optimisation problems by comparing results to benchmarked standards.
 
 <br />
-The project has involved:
+The project involved:
 * Researching and writing a literary review on Particle Swarm Optimisation and its applications.
-* Developing a Java simulator to implement and test standard algorithms to match available results. The simulator has been designed for performance and extensibility, which has been achieved using Java's object-object nature and built-in support for multi-threading. 
+* Developing a Java simulator to implement and test standard algorithms to match available results. The simulator has been designed for performance and extensibility, which has been achieved using Java's object-object nature and built-in support for multi-threading.
 * Designing new algorithms by identifying areas of possible improvement.
 
 -------
