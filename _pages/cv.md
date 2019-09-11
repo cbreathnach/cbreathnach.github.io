@@ -8,12 +8,12 @@ comments: false
 
 ## Education 
 
+#### 2019-2024: Bachelor of Medicine (M.B. B.Ch. B.A.O. Degree), NUI Galway.
+* Undergraduate Medical Degree.
+
 #### 2014-2018: Bachelor of Engineering (Electronic & Computer Engineering), NUI Galway.
 * Have studied a wide variety of hardware and software related modules.
-* Overall Final Year Result: 84.21%, First Class Honours
-* Overall Third Year Result: 86.2%, First Class Honours
-* Overall Second Year Result: 88.58%, First Class Honours
-* Overall First Year Result: 89.90%, First Class Honours
+* Overall Degree  Result: 84.95%, First Class Honours, top of class.
 
 #### 2013-2014: Bachelor of Science (First Year Only), NUI Galway.
 * Overall First Year Result: 95.75%, First Class Honours
@@ -28,9 +28,12 @@ comments: false
 ## Experience
 
 #### Associate Software Engineer - Genesys AI Group, Galway, Ireland.
-*July 2018 - PRESENT*
+*July 2018 - August 2019*
 
-* Working as a member of the Data Science Group.
+* Worked as a member of the Data Science Group, with a focus on Data and Machine Learning Engineering.
+* Responisble for the running of Data Science experiments, utilising Spark.
+* Responsible for various components in building a scalable production ML service using Python and some Scala.
+* Worked on an agile team, using technologies and platforms including AWS, Git, Databricks, Jupyter Notebooks.
 
 #### Electronic & Computer Engineering Intern - Aerogen Ltd, Galway, Ireland.
 *January 2017 - August 2017*
@@ -86,22 +89,16 @@ comments: false
 
 ## Skills
 
-**Java:** Most familiar with the Java language. Have studied many aspects of the language, including multithreading, client and server- side programming and algorithmic complexity analysis. Have also studied GUI programming and have implemented a logistic regression algorithm.
-
-<br />
-**Python:** Have used the Scikit-learn libraries for machine learning on various data sets.
+**Programming:** Most familiar with the Java and Python languages. Have written code for production systems and experiments in Machine Learning and Data Engineering.
 
 <br />
 **Embedded Systems:** Have studied embedded system and processor architecture and written C code for Microchip and Arduino MCUs. 
 
 <br />
-**Chip Design:** Have studied chip processes and have knowledge of VHDL and simulation environments for analysing systems. Assembly Lanuage.
+**Electronic Hardware:** Good knowledge of analogue and digital electronics, electromagetics, signals and communication systems. Have studied chip processes and have knowledge of VHDL.
 
 <br />
-**Electronics:** Good knowledge of analogue and digital electronics, electromagetics, signals and communication systems.
-
-<br />
-**Android:** Experience creating Android Applications and interacting with database back-ends.
+**Mobile:** Experience creating Android Applications and interacting with database back-ends.
 
 <br />
 **Web Development:** Have knowledge of HTML & CSS, SQL and other CMS systems.
@@ -168,7 +165,10 @@ comments: false
 **National Powerboat Certificate:** Powerboat licence.
 
 <br />
-**Remote Emergency Care Certificate:** Adventure Sports Advanced First Aid (Level 4).
+**Remote Emergency Care Certificate:** Adventure Sports Advanced First Aid (Level 5) - Expedition Level.
+
+<br />
+**Amateur Radio Licence:** CEPT Class 2, Callsign EI9HVB.
 
 -------------------
 
@@ -180,7 +180,7 @@ comments: false
 **Mountaineering:** A regular hiker and climber. Have travelled extensively in Ireland and abroad.
 
 <br />
-**Running:** Have been running for a number of years, have taken part in several events.
+**Running, Cycling, Swimming:** Have been running for a number of years, have taken part in several events.
 
 <br />
 **Scouting:** Have been involved in the Scout movement since the age of 11. An active member.
