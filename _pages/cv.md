@@ -44,8 +44,8 @@ comments: false
 * Created a C# GUI from a design prototype to interact with a microcontroller device from a tablet. Investigated different .NET libraries available for use.
 * Researched new hardware suppliers and arranged the testing for investigations into a new product.
 
-#### Student Ambassador - NUI Galway, Galway, Ireland.
-*2014 - 2018*
+#### Senior Student Ambassador - NUI Galway, Galway, Ireland.
+*2014 - PRESENT*
 
 * Lead ambassador role, helping with organisation of other ambassadors and of events.
 * Representing and promoting the university, interacting with prospective students and academic guests.
@@ -66,7 +66,7 @@ comments: false
 * Worked as an instructor in a busy centre to provide an enjoyable and safe experience for customers.
 
 #### Captain, Maamturks Challenge Chairperson, Advisor - NUI Galway Mountaineering Club.
-*2014 - PRESENT*
+*2014 - 2019*
 
 * Captain of the club for 2014-2015. Overseeing the entire running of the largest university club. Included responsibilities to  manage the organisation of weekly events and two international trips. Worked with university staff to overcome problems.
 * Involved with the organisation of the Maamturks Challenge since 2013. One of Ireland's largest and oldest hillwalking challenge events.
