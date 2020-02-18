@@ -27,7 +27,7 @@ comments: false
 
 ## Experience
 
-#### Associate Software Engineer - Genesys AI Group, Galway, Ireland.
+#### Software Engineer - Genesys AI Group, Galway, Ireland.
 *July 2018 - August 2019*
 
 * Worked as a member of the Data Science Group, with a focus on Data and Machine Learning Engineering.
