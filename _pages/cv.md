@@ -42,7 +42,7 @@ comments: false
 * Worked in the electronics R&D department of the world leader in high performance aerosol drug delivery.
 * Responsible for product testing, analysing and collecting results for reports for new products.
 * Programmed micro-controllers and monitored power consumption over various tests.
-* Created a C# GUI from a design prototype to interact with a microcontroller device from a tablet. Investigated different .NET libraries available for use.
+* Worked with C# and VB GUIs for utilites and design prototypes.
 * Researched new hardware suppliers and arranged the testing for investigations into a new product.
 
 #### Senior Student Ambassador - NUI Galway, Galway, Ireland.
