@@ -10,13 +10,14 @@ comments: false
 
 #### 2019-2024: Bachelor of Medicine (M.B. B.Ch. B.A.O. Degree), NUI Galway.
 * Undergraduate Medical Degree.
+* First Year Result: First Class Honours
 
 #### 2014-2018: Bachelor of Engineering (Electronic & Computer Engineering), NUI Galway.
 * Have studied a wide variety of hardware and software related modules.
-* Overall Degree  Result: 84.95%, First Class Honours, top of class.
+* Overall Degree  Result: First Class Honours, top of class.
 
 #### 2013-2014: Bachelor of Science (First Year Only), NUI Galway.
-* Overall First Year Result: 95.75%, First Class Honours
+* Overall First Year Result: First Class Honours
 * Subjects Studied: Mathematics, Physics, Chemistry, Applied Mathematics.
 
 #### 2008-2013: Leaving Certificate, St. Joseph's College "The Bish", Galway.
@@ -36,7 +37,7 @@ comments: false
 * Worked on an agile team, using technologies and platforms including AWS, Git, Databricks, Jupyter Notebooks.
 
 #### Electronic & Computer Engineering Intern - Aerogen Ltd, Galway, Ireland.
-*January 2017 - August 2017*
+*January 2017 - August 2017, May - September 2020*
 
 * Worked in the electronics R&D department of the world leader in high performance aerosol drug delivery.
 * Responsible for product testing, analysing and collecting results for reports for new products.
