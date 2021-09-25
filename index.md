@@ -8,7 +8,7 @@ image:
   feature: cover.png
 ---
 
-I'm a current Medical Student at [NUI Galway](https://www.nuigalway.ie/). Previously, I completed a degree in Electronic & Computer Engineering and worked mainly in data and machine learning engineering. I intend to pursue a career in clinical medicine but I've always had a fascination with technology and am interested to see how my engineering background will of use as new innovations in emerging technologies continue to innovate in the clinical setting.
+I'm a current Medical Student at [NUI Galway](https://www.nuigalway.ie/). Previously, I completed a degree in Electronic & Computer Engineering and worked mainly in data and machine learning engineering. I intend to pursue a career in clinical medicine but I've always had a fascination with technology and am interested to see how my engineering background will be of use as new innovations in emerging technologies continue to innovate in the clinical setting.
 
 <br />
 This is my personal website, and includes some information on the experience and skills I have in the [CV](http://cathalbreathnach.com/cv) section. I've also included some detail on a few of the [projects](http://cathalbreathnach.com/projects) I've worked on. I previously worked as an intern in [Aerogen](https://www.aerogen.com), and later in [Genesys](https://www.genesys.com/) working on their Data Science Team, as a member of the Artifiical Intelligence Group. For the summer months of 2020, I'm back working in Electronics R&D at Aerogen. You can download a PDF copy of my CV by clicking [here]({{cathalbreathnach.com}}/documents/Cathal_Breathnach_CV.pdf).
