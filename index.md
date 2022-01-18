@@ -15,7 +15,6 @@ This is my personal website, and includes some information on the experience and
 
 <!-- <br />
 I am interested in applying my experience to solving relevant real-world problems by implementing innovative engineering approaches. I have a particular interest in designing practical solutions using artificial intelligence and next-generation technologies but I also enjoy gaining an understanding of the theory and mathematics that describe problems. I am well organised with a persistent attention to detail and can apply concepts at a high performance level. -->
-<!-- Test comment -->
 
 <br />
 Some more information is available on my [LinkedIn page](https://www.linkedin.com/in/cathalbreathnach/) or you can also take at look at some of my work contained in my [Github](https://github.com/cbreathnach) repositories.
